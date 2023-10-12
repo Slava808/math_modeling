@@ -3,8 +3,8 @@
 х3 = 3 / 4
 х4 = [1, 2, 5, 10, 100]
 
-print(type('‘Hello, World!’'))
-print(type(3 + 4))
-print(type(3 / 4))
-print(type([1, 2, 5, 10, 100]))
+print(type(x1))
+print(type(x2))
+print(type(x3))
+print(type(x4))
 
